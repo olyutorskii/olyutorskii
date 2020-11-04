@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-- OS: Windows, macOSX
-- LANG: Java
-- LIB: JavaSE, Swing
-- SCM: Git, Mercurial, BitBucket, GitHub, SourceTree
-- IDE: Netbeans
-- CASE: Maven, Checkstyle, PMD
-- OTHER: Evernote
+| | |
+| --- | --- |
+| OS | Windows, macOSX |
+| LANG | Java |
+| LIB | JavaSE, Swing |
+| SCM | Git, Mercurial, BitBucket, GitHub, SourceTree |
+| IDE | Netbeans |
+| CASE | Maven, Checkstyle, PMD |
+| OTHER | Evernote |
 
 
 + 📫 How to reach me: https://sites.google.com/site/olyutorskiipit/
