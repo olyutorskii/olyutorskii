@@ -1,17 +1,6 @@
 ### Hi there 👋
 
-| | |
-| --- | --- |
-| OS | Windows, macOSX |
-| LANG | Java |
-| LIB | JavaSE, Swing |
-| SCM | Git, Mercurial, BitBucket, GitHub, SourceTree |
-| IDE | Netbeans |
-| CASE | Maven, Checkstyle, PMD |
-| OTHER | Evernote |
-
-
-+ 📫 How to reach me: https://sites.google.com/site/olyutorskiipit/
+📫 How to reach me: https://sites.google.com/site/olyutorskiipit/
 
 <!--
 **olyutorskii/olyutorskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
