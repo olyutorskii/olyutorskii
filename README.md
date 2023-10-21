@@ -2,6 +2,9 @@
 
 📫 How to reach me: https://sites.google.com/site/olyutorskiipit/
 
+- [→ Jindolf repositories list](https://github.com/olyutorskii/Jindolf/wiki/Jindolf-repositories-list)
+- [→ MikuToga repositories list](https://github.com/olyutorskii/TogaGem/wiki/MikuToga-repositories-list)
+
 <!--
 **olyutorskii/olyutorskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
